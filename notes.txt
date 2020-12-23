@@ -1,0 +1,7 @@
+//NOTES
+
+
+//TODO:
+- set up roll function
+- set up class to build character with builder pattern
+- set up setting character from scratch
